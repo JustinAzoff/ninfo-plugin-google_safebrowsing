@@ -1,1 +1,1 @@
-recursive-include ninfo_plugin_google_safebrowsing
+recursive-include ninfo_plugin_google_safebrowsing *.mako
